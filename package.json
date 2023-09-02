@@ -1,0 +1,15 @@
+{
+  "name": "tests-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vitest": "^0.34.3"
+  },
+  "dependencies": {
+    "date-fns": "^2.30.0"
+  }
+}
